@@ -1,0 +1,6 @@
+<!ELEMENT A (B+,C,E) >
+<!ELEMENT B (E+) >
+<!ELEMENT C (F) >
+<!ELEMENT F (#PCDATA) >
+<!ELEMENT E EMPTY >
+<!ATTLIST E nb (1 | 2 | 3 | 4) #REQUIRED>

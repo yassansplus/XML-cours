@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+ <!DOCTYPE A SYSTEM "constraint.dtd">
+
+<A>
+	<B>
+		<E nb="4"/>
+		<E nb="3"/>
+	</B>
+	<B>
+		<E nb="1"/>
+	</B>
+	<C>
+		<F>
+			a
+		</F>
+	</C>
+	<E nb="2"/>
+</A>

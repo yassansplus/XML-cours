@@ -1,0 +1,3 @@
+<!ELEMENT EXAMEN (exercice)>
+<!ATTLIST EXAMEN codeCours CDATA #REQUIRED titre CDATA #REQUIRED mois (01 | 02 | 03 | 04 | 05 | 06 | 07 | 08 | 09 | 10 | 11 | 12 ) #REQUIRED annee CDATA #REQUIRED jour CDATA #REQUIRED>
+<!ELEMENT exercice (question+)>

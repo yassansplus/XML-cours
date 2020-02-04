@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<cv>
+	<img src="path/to/bogoss.png"/>
+	<information>
+		<nom> Bousaidi </nom>
+		<prenom>Yassine </prenom>
+		<tel> 0767525830 </tel>
+		<adresse>
+			<rue> 190 rue du plessis bouchard </rue>
+			<CP> 95130 </CP>
+			<ville> Franconville </ville>
+		<adresse>
+	</information>
+	<competence>
+		<languages>
+			<web> html, css, js </web>
+			<desktop> java, c# </desktop>
+		</languages>
+	<competence>
+	<experiences>
+		<experience> fischer Prod </experience>
+		<experience> freelance </experience>
+	<experiences>
+	<langues>
+		<language> Francais </language>
+		<language> Anglais </language>
+	<langues>
+	<hobbies>
+		<hobbie> Programmation </hobbie>
+	<hobbies>
+
+</cv>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE EXAMEN SYSTEM "examen.dtd">
+<EXAMEN codeCours='' titre="CONTROLE" jour="12" mois="12" annee="2020">
+
+
+  <exercice titre="">
+      <question bareme="">
+        <correction nom_fichier=''>
+
+        </correction>
+        de quel couleur est le ciel?
+      </question>
+      <question bareme="">
+        <correction nom_fichier=''>
+          blablalajzsd
+        </correction>
+        De quel couleur est la voiture rouge?
+      </question>
+  </exercice>
+
+  <exercice titre="">
+      <question bareme="">
+        <correction nom_fichier=''>
+          blablalajzsd
+        </correction>
+        de quel couleur est le ciel?
+      </question>
+      <question bareme="">
+        <correction nom_fichier=''>
+          blablalajzsd
+        </correction>
+        De quel couleur est la voiture rouge?
+      </question>
+  </exercice>
+</EXAMEN>
